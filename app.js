@@ -1,0 +1,7 @@
+const names=require('./name')
+const sayfuck=require('./name2')
+const sayfucks=require('./alternative')
+require('./mind-greneade')
+//sayfuck('whore')
+//sayfuck(names.s)
+//sayfuck(names.f)
